@@ -34,7 +34,7 @@ int main()
     return 0;
 }
 
-// Function definition, if you want use write something on the console you should "void" variable for function
+// Function definition, if you want use write something on the console you should use "void" variable for function
 void NameLoop(int LoopNumber, string Name)
 {
     for (int i = 1; i <= LoopNumber; i++)
